@@ -1,0 +1,1 @@
+import{_ as n,c as s,b as o,w as a,d as e,F as c,a as r,r as _,o as u}from"./index-F0wyuLv3.js";const l={},d=r("h1",null,"關於我們頁面",-1);function f(i,m){const t=_("RouterLink");return u(),s(c,null,[d,o(t,{to:"/"},{default:a(()=>[e("Home")]),_:1}),e(" | "),o(t,{to:"/about"},{default:a(()=>[e("About")]),_:1})],64)}const x=n(l,[["render",f]]);export{x as default};
